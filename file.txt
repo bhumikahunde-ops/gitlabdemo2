@@ -1,1 +1,10 @@
-student login
+student management
+module1:student registration  
+module2:student login 
+module3:adding teacher registration
+module4:adding teacher login
+<<<<<<< HEAD
+=======
+module5:adding student search 
+module6:student marks
+>>>>>>> f03a715 (adding student marks)
